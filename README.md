@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rogendo
 - 👀 I’m interested in Machine Learning, Android Development and website development
 - 🌱 I’m currently learning Machine Learning and AI
-- 💞️ I’m looking to collaborate on Zindi and Google Developers panel
 - 📫 How to reach me peterrogendo1999@gmail.com , +254 794 197 997 
 
 <!---
