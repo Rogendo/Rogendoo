@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rogendo/portfolio.ke](peterrogendo.ke)
 
-- 💬 Ask me about **python, website development**
+- 💬 Ask me about **Python,Kivy and KivyMD, Website development**
 
 - 📫 How to reach me **peterrogendo1999@gmail.com**
 
