@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Flutter**
 
-- 👨‍💻 All of my projects are available at [peterrogendo.ke](peterrogendo.ke)
+- 👨‍💻 All of my projects are available at [https://rogendo/portfolio.ke](peterrogendo.ke)
 
 - 💬 Ask me about **python, website development**
 
