@@ -4,15 +4,19 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley643&label=Profile%20views&color=0e75b6&style=flat" alt="stanley643" /> </p>
 
-<p align="left"> <a href="https://twitter.com/PeterRogendo" target="blank"><img src="https://img.shields.io/twitter/follow/stanley643?logo=twitter&style=for-the-badge" alt="stanley643" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RogendoPeter" target="blank"><img src="https://img.shields.io/twitter/follow/RogendoPeter" alt="Rogendo" /></a> </p>
 
 - 🔭 I’m a Computer Science student **@Kabarak University**
 
-- 🌱 I’m currently learning **Data Storytelling and React Js**
+- 🌱 I’m currently learning **Data Storytelling, Flutter and React Js**
 
-- 👯 I’m looking to collaborate on **django/Laravel projects**
+- 🔭 I’m currently working on **Language translation ML model**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rogendo](https://github.com/Stanley643)
+
+<!-- - 👨‍💻 All of my projects are available at https://rogendo/portfolio.ke -->
+
+- 💬 Ask me about Python,Kivy, Website development and Machine Learning
+
 
 - 📫 How to reach me **https://www.linkedin.com/in/peter-rogendo/**
 
