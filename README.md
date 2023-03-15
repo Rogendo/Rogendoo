@@ -13,12 +13,12 @@
 
 - 🌱 I’m currently learning **Data Storytelling, Flutter and React Js**
 
-- 🔭 I’m currently working on **Language translation ML model**
+<!-- - 🔭 I’m currently working on **Language translation ML model** -->
 
 
 <!-- - 👨‍💻 All of my projects are available at https://rogendo/portfolio.ke -->
 
-- 💬 Ask me about Python,Kivy, Website development and Machine Learning
+- 💬 Ask me anything about Python.
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/peter-rogendo/**
